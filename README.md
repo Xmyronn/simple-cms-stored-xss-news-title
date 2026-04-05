@@ -1,0 +1,1 @@
+# simple-cms-stored-xss-news-title
