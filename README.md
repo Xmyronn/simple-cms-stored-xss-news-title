@@ -61,3 +61,8 @@ and account takeover of any logged in user including administrators.
 
 ## Author
 Imad Alvi
+
+---
+
+## Refernce
+https://code-projects.org/simple-content-management-system-in-php-with-source-code/
